@@ -61,7 +61,7 @@ In addition to the Gregorian DateTimePicker, the Blazor DateTimePicker component
 
 [Documentation](https://blazor.syncfusion.com/documentation/datetime-picker/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/datetime-picker/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/create-blazor-datetime-picker-component-in-blazor-server-app.git?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
 
@@ -83,6 +83,6 @@ Today, we provide 1700+ components and frameworks for web ([Blazor](https://www.
 <hr style="height:0.3px;border:none;color:lightgrey;background-color:lightgrey;" />
 
 <p align="center">
-<a href="mailto:sales@syncfusion.com?Subject=Syncfusion Blazor DateTime Picker  - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples">www.syncfusion.com</a>| Toll Free: 1-888-9 DOTNET <br>
+<a href="mailto:sales@syncfusion.com?Subject=Syncfusion Blazor DateTime Picker - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples">www.syncfusion.com</a>| Toll Free: 1-888-9 DOTNET <br>
 </p>
 
