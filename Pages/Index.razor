@@ -1,15 +1,14 @@
 ﻿@page "/"
 
-    <div id="wrapper">
-        @*Add Placeholder="Choose a Date Range" in below code when no value is set to DateTimePicker*@
-        <SfDateTimePicker TValue="DateTime?"
-                          Value="@DateValue"
-                          Min="@StartDate"
-                          Max="@EndDate"
-                          Format="dd-MMM-yy HH:mm"></SfDateTimePicker>
-    </div>
+<div id="wrapper">
+    <SfDateTimePicker TValue="DateTime?"
+                      Value="@DateValue"
+                      Min="@StartDate"
+                      Max="@EndDate"
+                      Format="dd-MMM-yy HH:mm"></SfDateTimePicker>
+</div>
 
-@code{
+@code {
     public DateTime DateValue { get; set; } = new DateTime(2020, 03, 11, 12, 45, 00);
 
     public DateTime StartDate { get; set; } = new DateTime(2020, 03, 10, 12, 00, 00);
@@ -18,7 +17,7 @@
 }
 
 <style>
-    #wrapper{
+    #wrapper {
         max-width: 300px;
         margin: 0px auto;
         padding-top: 20px;

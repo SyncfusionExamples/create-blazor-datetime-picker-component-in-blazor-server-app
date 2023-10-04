@@ -2,13 +2,16 @@
 
 [Blazor DateTime Picker](https://www.syncfusion.com/blazor-components/blazor-datetime-picker?utm_source=github&utm_medium=listing&utm_campaign=blazor-datetime-picker-github-samples) is a lightweight and mobile-friendly component that allows end users to enter or select date and time values from a pop-up calendar and drop-down time list. A quick start blazor server app that allows you to configure the Blazor DateTimePicker component of Syncfusion with its available options. This project contains simple code customizations, as well as some important features such as setting specific date time value, formatting and range restriction for date time selection.
 
-## Project prerequisites
+## Prerequisites
 
-Make sure that you have the compatible versions of Visual Studio 2019 and .NET Core SDK 3.1.2 in your machine before starting to work on this project.
+* Visual Studio 2022
 
-## How to run this application?
+## How to run the project
 
-To run this application, you need to first clone the `create-blazor-datetime-picker-component-in-blazor-server-app` repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Features and benefits
 
